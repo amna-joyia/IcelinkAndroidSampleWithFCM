@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632575721344",
+    "firebase_url": "https://chatwebsync4.firebaseio.com",
+    "project_id": "chatwebsync4",
+    "storage_bucket": "chatwebsync4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632575721344:android:d683a4031639df18",
+        "android_client_info": {
+          "package_name": "chat.websync4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632575721344-7ihpb3hadlid6p02nf4grsvh7d074bcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.websync4",
+            "certificate_hash": "bd2079064a78947dbc160e0c424ae51bd5b74ec3"
+          }
+        },
+        {
+          "client_id": "632575721344-spnqkmfme9u5driig5tmbkeh5jgo2mr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJBlX3nXsrcf0eQyxtmFfxUL6O-ZVBqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632575721344-spnqkmfme9u5driig5tmbkeh5jgo2mr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
